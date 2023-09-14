@@ -1,17 +1,17 @@
 
 constant: CONNECTION_NAME {
-  value: "Connection Name"
+  value: "cortex-framework-connection"
   export: override_required
 }
 
 
 constant: GCP_PROJECT_ID {
-  value: "GCP Project ID"
+  value: "qin-cortex-demo-temp"
   export: override_required
 }
 
 
 constant: SFDC_DATASET {
-  value: "Reporting Dataset Name"
+  value: "REPORTING_SFDC"
   export: override_required
 }
