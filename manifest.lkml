@@ -1,12 +1,12 @@
 
 constant: CONNECTION_NAME {
-  value: "bq-looker-cortex-sf"
+  value: "cortex-salesforce"
   export: override_required
 }
 
 
 constant: GCP_PROJECT_ID {
-  value: "qin-cortex-demo-temp2"
+  value: "qin-cortex-demo-temp3"
   export: override_required
 }
 
